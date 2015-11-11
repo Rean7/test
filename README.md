@@ -1,2 +1,2 @@
 # test
-Das ist mein erstes Reposotory
+Das ist mein erstes Repostery
